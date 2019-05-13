@@ -1,4 +1,4 @@
-div {
+/*div */ #Steph{
 	background: #e8ddde;
 	font-size:  2em;
 	width:  30%;
@@ -9,7 +9,7 @@ div {
 	align-content: center;
 }
 
-div:hover {
+#Steph:hover {
 	background: lightcoral;
 	width: 250px;
 	height: 250px;
